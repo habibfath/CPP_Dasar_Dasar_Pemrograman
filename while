@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main() {
+	int bilangan = 1;
+	while (bilangan < 10) {
+		cout << bilangan << endl;
+		bilangan++;
+	}
+}
