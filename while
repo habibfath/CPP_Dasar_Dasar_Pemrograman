@@ -6,4 +6,9 @@ int main() {
 		cout << bilangan << endl;
 		bilangan++;
 	}
+	int bil = 10;
+	while (bil <100){
+		cout << bill << " ";
+		bil++;
+	}
 }
