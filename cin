@@ -6,5 +6,10 @@ int main()
 	int a;
 	cout << "Hello World" << endl;
 	cin >>a;
+
+	for (int b=0; b<10; b++){
+		cout << "Good" << endl;
+	}
+
 	return 0;
 } 
